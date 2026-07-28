@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Guilherme Segatto, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Senac, com o curso técnico em T.I. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na USJT. Sou fascinado por tecnologia e compartilho meu conhecimento através do dos meus repositórios.
+Me chamo Guilherme Segatto, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Senac, com o curso técnico em T.I. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na USJT. Sou fascinado por tecnologia e compartilho meu conhecimento através dos meus repositórios.
 
 ### 🤖 Linguagens e Tecnologias
 
