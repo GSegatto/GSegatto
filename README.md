@@ -93,8 +93,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visu
 - Arquitetura de software e regras de negócio
 - Git e GitHub
 
----
 
-### Contato
-
-- [GitHub](https://github.com/GSegatto)
