@@ -6,8 +6,7 @@ Técnico em TI | Desenvolvimento Backend**
 Olá! Sou estudante de Análise e Desenvolvimento de Sistemas na 
 Universidade São Judas Tadeu (USJT) e técnico em TI formado pelo Senac.
 
-Tenho interesse em desenvolvimento de software, principalmente 
-na área backend, e venho aprimorando minhas habilidades por meio 
+Tenho interesse em desenvolvimento de software, gosto tanto do back-end quanto do front-end, e venho aprimorando minhas habilidades por meio 
 de cursos, estudos e projetos práticos.
 
 Atualmente, estou aprofundando meus conhecimentos em C#, .NET, 
