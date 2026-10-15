@@ -81,22 +81,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visu
 <br>
 <br>
 
-### Projetos em Destaque
-
-- **[WebLib — Sistema de Gerenciamento de Biblioteca](https://github.com/GSegatto/WebLib)**
-  - Aplicação web desenvolvida com ASP.NET Core MVC, C#, Entity 
-    Framework Core e SQL Server.
-  - Projeto com gerenciamento de livros, exemplares, usuários, 
-    empréstimos e funcionalidades administrativas.
-  - Aplicação de conceitos de arquitetura MVC, repositórios, 
-    serviços e regras de negócio.
-
-- **[BuscarCEP](https://github.com/GSegatto/BuscarCEP)**
-  - Projeto web para consulta de CEP utilizando HTML, CSS e a API ViaCEP.
-
-- **[InnovaTech](https://github.com/GSegatto/InnovaTech)**
-  - Projeto de desenvolvimento front-end utilizando HTML, CSS e Bootstrap.
-
 ---
 
 ### Atualmente estudando
