@@ -1,4 +1,4 @@
-# 🧑‍💻 Guilherme Segatto
+# Guilherme Segatto
 
 **Estudante de Análise e Desenvolvimento de Sistemas | 
 Técnico em TI | Desenvolvimento Backend**
@@ -16,7 +16,7 @@ buscando construir aplicações bem estruturadas e funcionais.
 
 ---
 
-### 💻 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img align="left" alt="C#" title="C#" width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -42,7 +42,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.
 <br>
 <br>
 
-### ⚙️ Frameworks e Bibliotecas
+### Frameworks e Bibliotecas
 
 <img align="left" alt="ASP.NET Core" title="ASP.NET Core" width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
@@ -56,7 +56,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstr
 <br>
 <br>
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 
 <img align="left" alt="SQL Server" title="SQL Server" width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
@@ -67,7 +67,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 <br>
 <br>
 
-### 🛠️ Ferramentas
+### Ferramentas
 
 <img align="left" alt="Git" title="Git" width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -81,7 +81,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visu
 <br>
 <br>
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 - **[WebLib — Sistema de Gerenciamento de Biblioteca](https://github.com/GSegatto/WebLib)**
   - Aplicação web desenvolvida com ASP.NET Core MVC, C#, Entity 
@@ -99,7 +99,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visu
 
 ---
 
-### 📚 Atualmente estudando
+### Atualmente estudando
 
 - C# e plataforma .NET
 - ASP.NET Core MVC
@@ -111,6 +111,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visu
 
 ---
 
-### 📫 Contato
+### Contato
 
 - [GitHub](https://github.com/GSegatto)
