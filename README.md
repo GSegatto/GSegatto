@@ -25,7 +25,7 @@ Utilizo o GitHub para compartilhar meus projetos, registrar minha evolução e c
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,java,python,php,bootstrap,mysql,git,github,visualstudio,vscode&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,java,javascript,python,php,bootstrap,mysql,git,github,visualstudio,vscode&perline=14)](https://skillicons.dev)
 
 </div>
 
