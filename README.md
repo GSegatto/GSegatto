@@ -1,9 +1,7 @@
 
 <div align="center">
 
-# Guilherme Segatto
-
-### Estudante de Análise e Desenvolvimento de Sistemas
+# Guilherme Segatto 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=BC13FE&center=true&vCenter=true&width=600&lines=An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+C%23+e+.NET;Desenvolvimento+Backend+e+Frontend)](https://git.io/typing-svg)
 
